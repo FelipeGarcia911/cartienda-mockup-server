@@ -1,0 +1,25 @@
+{
+  "name": "cartienda_mockup_server",
+  "version": "1.0.0",
+  "description": "Servidor de Templates de Respuestas del Servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "latest",
+    "http": "latest",
+    "async": "latest",
+    "body-parser": "latest",
+    "node-import": "latest",
+    "method-override": "latest",
+    "forever" : "latest",
+    "node-promise": "latest"
+  },
+  "keywords": [
+    "mockup",
+    "server"
+  ],
+  "author": "Felipe Garcia",
+  "license": "ISC"
+}
